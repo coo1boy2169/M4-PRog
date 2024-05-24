@@ -1,0 +1,1 @@
+SELECT * FROM `huisdieren` ORDER BY naam
