@@ -1,0 +1,1 @@
+SELECT * FROM `huisdieren` WHERE (typedier = "hamster" OR typedier = "yorkie" ) and leeftijd  > 0

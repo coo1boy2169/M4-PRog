@@ -1,0 +1,1 @@
+SELECT SUM(age) FROM `Opera GX` ORDER BY abonoment LIMIT 30
