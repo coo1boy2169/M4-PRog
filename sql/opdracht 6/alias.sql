@@ -1,0 +1,1 @@
+SELECT pets.naam  , pets.leeftijd  FROM huisdieren as pets
